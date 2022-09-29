@@ -1,0 +1,29 @@
+﻿¨/*Estilo para todo el documento*/
+body{
+    font-size:13px;
+    font-family:Tahoma, Geneva, sans-serif;
+    color:#FFF;
+    background-color:#fff;
+}
+/*Estilos para la alineasión de los textos*/
+p#izquierda{
+    float:left;
+    color:white;
+}
+
+p#derecha{
+    float:right;
+    color:white;
+}
+
+a{
+    color:yellow;
+}
+
+/*Estilos para el pie*/
+footer{
+    height:40px;
+    margin:10px;
+    padding:10px;
+    background-color:#000;
+}
